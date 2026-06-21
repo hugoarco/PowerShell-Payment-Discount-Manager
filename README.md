@@ -43,16 +43,15 @@ text
 Usuario: Hugo Arcones
 Cantidad: 50.00
 Metodo de pago: Visa
+
 📊 Diagrama de flujo
-https://github.com/user-attachments/assets/11e01af6-bf3a-4388-9b1e-2674cb566f85
 
 👤 Autor
 Hugo Arco
 Estudiante de SMR | Apasionado por la automatización y administración de sistemas
 GitHub · Gmail
 
-📄 Licencia
-Este proyecto está bajo la licencia MIT.
+📄 Licencia<img width="1996" height="2652" alt="diagram (2)" src="https://github.com/user-attachments/assets/62c78345-c46a-41db-b767-320dc88f325c" />tá bajo la licencia MIT.
 Consulta el archivo LICENSE para más información.
 
 ⭐ ¿Te ha sido útil?
