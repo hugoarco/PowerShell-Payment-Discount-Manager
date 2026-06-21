@@ -37,3 +37,7 @@ text
 
 ## 📅 Estado
 ✅ Finalizado y funcional
+
+## Estructura
+<img width="1996" height="2652" alt="diagram (2)" src="https://github.com/user-attachments/assets/b631a0df-ea05-4733-8c17-7e285be29536" />
+
