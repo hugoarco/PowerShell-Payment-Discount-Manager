@@ -3,7 +3,7 @@
 Script de PowerShell para la gestión de pagos, cálculo de descuentos y generación de tickets. Diseñado para entornos educativos (SMR) como herramienta de aprendizaje y automatización.
 
 ## 🛠️ Funcionalidades
-- ✅ Identificación de usuarios (alumnos/profesores)
+- ✅ Identificación de usuarios (alumnos/profesores) (Quitado de  nombres por privacidad solo el del autor del script )
 - ✅ Cálculo de descuentos (con validación 0-100%)
 - ✅ Comparación de precios original vs descuento
 - ✅ Procesamiento de pagos (Visa, PayPal, Mastercard)
