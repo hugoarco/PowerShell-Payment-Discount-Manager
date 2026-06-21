@@ -24,7 +24,9 @@ Script de PowerShell para la gestión de pagos, cálculo de descuentos y generac
 
 ## 📂 Ejemplo de ticket generado
 Usuario: Hugo Arcones
+<br>
 Cantidad: 50.00
+<br>
 Metodo de pago: Visa
 
 text
