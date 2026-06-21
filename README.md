@@ -37,7 +37,7 @@
 # 3. Introduce tu nombre de usuario
 # 4. Selecciona una opción del menú
 
-.\payment-manager.ps1
+.\descuentos.ps1
 📂 Ejemplo de ticket generado
 text
 Usuario: Hugo Arcones
@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/11e01af6-bf3a-4388-9b1e-2674cb566f85
 👤 Autor
 Hugo Arco
 Estudiante de SMR | Apasionado por la automatización y administración de sistemas
-GitHub · Gmail
+
 
 📄 Licencia
 Este proyecto está bajo la licencia MIT.
