@@ -39,7 +39,8 @@ Ejecutar como Administrador (obligatorio para restaurar sistema)
 Protección del sistema activada
 
 ## Diagrama de flujo
-https://github.com/user-attachments/assets/11e01af6-bf3a-4388-9b1e-2674cb566f85
+<img width="1996" height="2652" alt="diagram (2)" src="https://github.com/user-attachments/assets/58b6213e-3e8e-412f-9da0-646ad0452300" />
+
 
  ## Autor
 Hugo Arco
