@@ -57,4 +57,4 @@ Consulta el archivo LICENSE para más información.
 Si este proyecto te ha ayudado, ¡no olvides dejar una estrella en GitHub!
 Tu apoyo me motiva a seguir creando herramientas como esta.
 
-<p align="center"> <b>Hecho con ❤️ y PowerShell</b> </p> ```
+<p align="center"> <b>Hecho con ❤️ y PowerShell</b> </p>
