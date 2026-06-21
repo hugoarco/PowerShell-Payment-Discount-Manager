@@ -1,5 +1,6 @@
 <h1 align = "center" >PowerShell Payment & Discount Manager</h1> 
-## 📖 Descripción
+
+## 📋 Descripción 
 Script de PowerShell para la gestión de pagos, cálculo de descuentos y generación de tickets. Diseñado para entornos educativos (SMR) como herramienta de aprendizaje y automatización.
 
 ## 🛠️ Funcionalidades
