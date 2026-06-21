@@ -43,6 +43,7 @@ text
 Usuario: Hugo Arcones
 Cantidad: 50.00
 Metodo de pago: Visa
+<br><br>
 📊 Diagrama de flujo
 https://github.com/user-attachments/assets/11e01af6-bf3a-4388-9b1e-2674cb566f85
 
@@ -59,4 +60,3 @@ Consulta el archivo LICENSE para más información.
 Si este proyecto te ha ayudado, ¡no olvides dejar una estrella en GitHub!
 Tu apoyo me motiva a seguir creando herramientas como esta.
 
-<p align="center"> <b>Hecho con ❤️ y PowerShell</b> </p>
